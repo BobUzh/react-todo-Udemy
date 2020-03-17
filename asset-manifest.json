@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-todo-Udemy/static/css/main.36818fc4.chunk.css",
+    "main.js": "/react-todo-Udemy/static/js/main.a5523351.chunk.js",
+    "main.js.map": "/react-todo-Udemy/static/js/main.a5523351.chunk.js.map",
+    "runtime-main.js": "/react-todo-Udemy/static/js/runtime-main.c1034d40.js",
+    "runtime-main.js.map": "/react-todo-Udemy/static/js/runtime-main.c1034d40.js.map",
+    "static/js/2.f482bfcb.chunk.js": "/react-todo-Udemy/static/js/2.f482bfcb.chunk.js",
+    "static/js/2.f482bfcb.chunk.js.map": "/react-todo-Udemy/static/js/2.f482bfcb.chunk.js.map",
+    "index.html": "/react-todo-Udemy/index.html",
+    "precache-manifest.caa502d71229dfb9ba2d6e0791efa5d0.js": "/react-todo-Udemy/precache-manifest.caa502d71229dfb9ba2d6e0791efa5d0.js",
+    "service-worker.js": "/react-todo-Udemy/service-worker.js",
+    "static/css/main.36818fc4.chunk.css.map": "/react-todo-Udemy/static/css/main.36818fc4.chunk.css.map",
+    "static/js/2.f482bfcb.chunk.js.LICENSE.txt": "/react-todo-Udemy/static/js/2.f482bfcb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c1034d40.js",
+    "static/js/2.f482bfcb.chunk.js",
+    "static/css/main.36818fc4.chunk.css",
+    "static/js/main.a5523351.chunk.js"
+  ]
+}
