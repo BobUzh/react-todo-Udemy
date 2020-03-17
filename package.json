@@ -2,11 +2,11 @@
   "name": "todo-list",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://bobuzh.github.io/react-todo-Udemy",
+  "homepage": "https://bobuzh.github.io/react-todo-Udemy/",
   "dependencies": {
     "react": "^16.11.0",
     "react-dom": "^16.11.0",
-    "react-scripts": "3.2.0"
+    "react-scripts": "^3.4.0"
   },
   "scripts": {
     "predeploy": "npm run build",
